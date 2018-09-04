@@ -1,0 +1,1 @@
+INSERT INTO ticket(passenger_name,booking_date,email,source_station,destination_station) VALUES ('Testing', '2018/03/03','testing@attocom.com','Bangalore','Delhi');
