@@ -1,2 +1,4 @@
 # LearningSpringBoot
-Learning Spring Boot App 
+
+Learning SpringBoot from scratch
+
